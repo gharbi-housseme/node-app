@@ -25,6 +25,6 @@
   "homepage": "https://github.com/gharbi-housseme/node-app#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "superagent": "^0.18.0"
+    "superagent": "^5.0.2"
   }
 }
