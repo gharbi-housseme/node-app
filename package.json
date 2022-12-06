@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "jest": "^25.1.0",
-    "supertest": "^0.13.0"
+    "supertest": "^6.3.2"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,6 @@
   "homepage": "https://github.com/gharbi-housseme/node-app#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "superagent": "^0.18.0"
+    "superagent": "^8.0.5"
   }
 }
